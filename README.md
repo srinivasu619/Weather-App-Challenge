@@ -1,7 +1,7 @@
 # Uplabs.com - Weather App Challenge
 This is my Design and Implmentation of the UI of the **Weather App Challenge**. This is my submission for the [Uplabs.com - Weather App Challenge](https://www.uplabs.com/challenges/weather-app-challenge)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/cRAqK"><a href="//imgur.com/cRAqK"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Imgur](https://i.imgur.com/9VdJLCo.png)
 
 ## Live Example
 
